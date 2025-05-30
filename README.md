@@ -11,4 +11,9 @@ This project follows the CRISP-DM process and includes:
 - Data cleaning and preparation
 - Model training
 - Model evaluation with metrics and SHAP values
-- Prediction for Colombia in 2018 ombia in 2018
+- Prediction for Colombia in 2018
+
+# File Descriptions
+
+There are 1 notebook available here to showcase work related to the above objective.
+There is an additional .csv files with the data neccesary to train the final model to predict life expectancy.
