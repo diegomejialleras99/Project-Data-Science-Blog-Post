@@ -5,8 +5,8 @@ The objective of this exercise is to fit a basic model to evaluate the relations
 
 This project follows the CRISP-DM process and includes:
 
-Exploratory analysis and detailed visualizations
-Data cleaning and preparation
-Model training
-Model evaluation with metrics and SHAP values
-Prediction for Colombia in 2018 ombia in 2018
+- Exploratory analysis and detailed visualizations
+- Data cleaning and preparation
+- Model training
+- Model evaluation with metrics and SHAP values
+- Prediction for Colombia in 2018 ombia in 2018
