@@ -17,3 +17,6 @@ This project follows the CRISP-DM process and includes:
 
 There are 1 notebook available here to showcase work related to the above objective.
 There is an additional .csv files with the data neccesary to train the final model to predict life expectancy.
+
+# Licensing, Authors, Acknowledgements
+Must give credit to World Bank Indicators for the data: https://databank.worldbank.org/source/world-development-indicators
