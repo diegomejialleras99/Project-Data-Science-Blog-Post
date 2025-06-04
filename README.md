@@ -19,7 +19,7 @@ There are 1 notebook available here to showcase work related to the above object
 There is an additional .csv files with the data neccesary to train the final model to predict life expectancy.
 
 # Results
-The main findings of the code can be found at the post available here
+The main findings of the code can be found at the post available here https://medium.com/@amtamil85/what-drives-life-expectancy-exploring-world-bank-data-with-machine-learning-baa47a02af44
 
 # Licensing, Authors, Acknowledgements
 Must give credit to World Bank Indicators for the data: https://databank.worldbank.org/source/world-development-indicators
